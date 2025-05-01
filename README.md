@@ -43,6 +43,23 @@ Você pode jogar **Wizard Survival** diretamente pelo link abaixo:
   - Consulta do Ranking de jogadores
   - Ordenação por pontuação
 
+## 🖼️ Prints da Aplicação e Banco de Dados
+
+
+<img width="1146" alt="Captura de Tela 2025-04-30 às 22 54 34" src="https://github.com/user-attachments/assets/657e1c8b-718e-436e-86f7-de08732ad496" />
+<img width="1180" alt="Captura de Tela 2025-04-30 às 22 54 18" src="https://github.com/user-attachments/assets/1544bfcc-989b-4465-b693-41ae13807c1c" />
+
+
+## 🧙‍♂️ Tabela de Sprites do Jogo
+
+| Sprite               | Imagem                                 | Tipo                   | Função e Comportamento                                                                 |
+|----------------------|-----------------------------------------|-------------------------|----------------------------------------------------------------------------------------|
+| **Mago Principal**   |![Mago](./sprites/mago.png)| Personagem Jogável      | Controlado pelo jogador. Lança magias para derrotar inimigos. Movimenta-se livremente. |
+| **Duende Inimigo**   | ![Duende](./sprites/duende.png)         | Inimigo (corpo a corpo) | Aproxima-se rapidamente. Se encostar no mago, causa morte.                             |
+| **Dragão**           | ![Dragão](./sprites/dragao.png)         | Inimigo (ranged + melee)| Lança chamas à distância e causa dano ao encostar no mago.                             |
+| **Magia do Mago**    | ![Magia](./sprites/magia.png)           | Projétil do Jogador     | Disparada pelo mago. Elimina inimigos ao colidir com eles.                             |
+| **Chama do Dragão**  | ![Chama](./sprites/chama.png)           | Projétil do Inimigo     | Lançada pelo dragão. Se atingir o mago, causa dano ou morte imediata.                  |
+| **Efeito de Impacto**| ![Efeito](./sprites/efeito.png)         | Efeito Visual           | Aparece no momento em que a magia acerta um inimigo, indicando o impacto.              |
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico e não está aberto para contribuições externas no momento. Sugestões e feedbacks são bem-vindos 
 
