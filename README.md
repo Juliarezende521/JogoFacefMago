@@ -25,7 +25,6 @@ Bem-vindo ao repositório do projeto **Wizard Survival**, um jogo de tiro desenv
 ## 🧱 Funcionalidades
 
 - Sistema de movimentação e combate do mago
-- IA básica dos inimigos (duendes e dragões)
 - Ataques com animações e efeitos visuais
 - Sistema de pontuação baseado em sobrevivência e inimigos derrotados
 - Integração com banco de dados SQL para registrar e exibir o ranking dos jogadores
