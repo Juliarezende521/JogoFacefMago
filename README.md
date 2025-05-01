@@ -14,6 +14,11 @@ Bem-vindo ao repositório do projeto **Wizard Survival**, um jogo de tiro desenv
 
 ## 🕹️ Como Jogar
 
+Você pode jogar **Wizard Survival** diretamente pelo link abaixo:
+
+👉 **[Clique aqui para jogar Wizard Survival](https://juliarezendefacef.itch.io/jogomagofacef)**
+
+
 - **Movimentação:** Use as teclas **W, A, S, D** ou as **setas direcionais** para mover o mago.
 - **Ataque:** Pressione lado esquerdo do mouse na tela (versão mobile) para lançar magias.
 - **Objetivo:** 
