@@ -54,18 +54,12 @@ Você pode jogar **Wizard Survival** diretamente pelo link abaixo:
 
 | Sprite               | Imagem                                 | Tipo                   | Função e Comportamento                                                                 |
 |----------------------|-----------------------------------------|-------------------------|----------------------------------------------------------------------------------------|
-| **Mago Principal**   |![mago](https://github.com/user-attachments/assets/07ea0f4d-c4ca-4c7e-9165-c666db14c57c) |
- Personagem Jogável      | Controlado pelo jogador. Lança magias para derrotar inimigos. Movimenta-se livremente. |
-| **Duende Inimigo**   |![duende](https://github.com/user-attachments/assets/fcad8f19-489d-4928-8f74-629567afa38b)|
-        | Inimigo (corpo a corpo) | Aproxima-se rapidamente. Se encostar no mago, causa morte.                             |
-| **Dragão**           | ![dragao](https://github.com/user-attachments/assets/112ef8a4-1a34-427b-905e-3bd944a4737c)
-        | Inimigo (ranged + melee)| Lança chamas à distância e causa dano ao encostar no mago.                             |
-| **Magia do Mago**    |    ![podermago](https://github.com/user-attachments/assets/68180ad6-2162-43d1-9fec-261d46416127)
-      | Projétil do Jogador     | Disparada pelo mago. Elimina inimigos ao colidir com eles.                             |
-| **Chama do Dragão**  |  ![chama](https://github.com/user-attachments/assets/8f527907-da4c-40e3-accb-53383dc6d02c)
-         | Projétil do Inimigo     | Lançada pelo dragão. Se atingir o mago, causa dano ou morte imediata.                  |
-| **Efeito de Impacto**|    ![luz](https://github.com/user-attachments/assets/3c1a56e2-8097-4c8f-a47f-1fb37572a112)
-     | Efeito Visual           | Aparece no momento em que a magia acerta um inimigo, indicando o impacto.              |
+| **Mago Principal**   |![mago](https://github.com/user-attachments/assets/07ea0f4d-c4ca-4c7e-9165-c666db14c57c) | Personagem Jogável | Controlado pelo jogador. Lança magias para derrotar inimigos. Movimenta-se livremente. |
+| **Duende Inimigo**   |![duende](https://github.com/user-attachments/assets/fcad8f19-489d-4928-8f74-629567afa38b) | Inimigo (corpo a corpo) | Aproxima-se rapidamente. Se encostar no mago, causa morte.|                             |
+| **Dragão**    | ![dragao](https://github.com/user-attachments/assets/112ef8a4-1a34-427b-905e-3bd944a4737c)| Inimigo | Lança chamas à distância e causa dano ao encostar no mago. |                            
+| **Magia do Mago**  |  ![podermago](https://github.com/user-attachments/assets/68180ad6-2162-43d1-9fec-261d46416127)| Projétil do Jogador  | Disparada pelo mago. Elimina inimigos ao colidir com eles.|                             
+| **Chama do Dragão** |  ![chama](https://github.com/user-attachments/assets/8f527907-da4c-40e3-accb-53383dc6d02c) | Projétil do Inimigo | Lançada pelo dragão. Se atingir o mago, causa dano ou morte imediata.|
+| **Efeito de Impacto**|   ![luz](https://github.com/user-attachments/assets/3c1a56e2-8097-4c8f-a47f-1fb37572a112)| Efeito Visual | Aparece no momento em que a magia acerta um inimigo, indicando o impacto.  |
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico e não está aberto para contribuições externas no momento. Sugestões e feedbacks são bem-vindos 
 
